@@ -1,16 +1,17 @@
-# firstproject_app
+# 🛒 E-commerce App
 
-A new Flutter project.
+This is a feature-rich e-commerce app developed using **Flutter** as part of my internship at **Intern Intelligence**. The app focuses on delivering a smooth and responsive user experience, showcasing products, and managing a shopping cart with elegant navigation and animations.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔧 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🛍️ Product listing with dynamic UI
+- 📦 Product detail screen with **Hero animation**
+- 🛒 Add to cart and remove from cart functionality
+- 🚀 Smooth page transitions and animations
+- 🎯 Responsive UI across different screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
